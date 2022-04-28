@@ -6,3 +6,6 @@ The documentation is a pdf in the root folder called: "Documentation_Define-tria
 
 # Code
 The is written in Java and can be found under the folder: "define-triangle"
+
+# Credit
+This work has been done by Mustafa Al-Dailemi
